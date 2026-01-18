@@ -1,0 +1,11 @@
+
+#modern_problem_require_modern_solution
+
+what it does:
+    hicheel songolt 2 ehlevel hamgiin turuund utsandaa medegdel avah
+
+requires:
+    "ntfy" ios or android app
+    brain
+
+figure rest of it yourself
