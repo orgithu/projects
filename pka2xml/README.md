@@ -1,6 +1,6 @@
 # PKT2XML - Cisco Packet Tracer File Converter
 
-Got curious and thought "how it works", tampered around with **gdb** and extracted the plain xml from packettracer memory. found a guy make pkt2xml already to directly convert `.pkt` file, made it work.
+Got curious and thought "how it works", tampered around with **gdb** and extracted the plain xml from packettracer memory. found a guy made pkt2xml already to directly convert `.pkt` file, made it work.
 
 ## What Does This Do?
 
