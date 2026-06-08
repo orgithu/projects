@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wplace Pixel JSON Studio</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="app-header">
+        <div class="title-block">
+          <p class="eyebrow">Wplace pixel art JSON</p>
+          <h1>Pixel Template Studio</h1>
+          <p class="subtitle">
+            Paste a wplace JSON string, store it under a name, edit pixels with a brush, copy the output,
+            and merge two JSON strings into one.
+          </p>
+        </div>
+        <div class="header-actions">
+          <button id="fillSampleBtn" class="secondary-button" type="button">Load sample</button>
+          <button id="copyCurrentBtn" class="secondary-button" type="button" disabled>Copy current JSON</button>
+        </div>
+      </header>
+
+      <section class="workspace">
+        <aside class="panel side-panel">
+          <section>
+            <h2>Paste & Store</h2>
+            <div class="field">
+              <label for="templateNameInput">Template name</label>
+              <input id="templateNameInput" type="text" placeholder="My template" />
+            </div>
+            <div class="field">
+              <label for="importJsonInput">Paste JSON</label>
+              <textarea
+                id="importJsonInput"
+                spellcheck="false"
+                placeholder="Paste a wplace pixel JSON string here"
+              ></textarea>
+            </div>
+            <div class="button-row">
+              <button id="importBtn" class="primary-button" type="button">Import & Save</button>
+              <button id="clearImportBtn" class="secondary-button" type="button">Clear</button>
+            </div>
+            <p id="importStatus" class="help">Paste a JSON string, give it a name, and save it to your library.</p>
+          </section>
+
+          <section>
+            <h2 class="section-gap">Stored templates</h2>
+            <div id="libraryList" class="library-list empty">No templates stored yet.</div>
+          </section>
+        </aside>
+
+        <section class="panel editor-panel">
+          <div class="panel-heading">
+            <div>
+              <h2>Editor</h2>
+              <p id="currentTemplateInfo" class="help">No template loaded.</p>
+            </div>
+            <div class="button-row compact">
+              <button id="saveCurrentBtn" class="secondary-button" type="button" disabled>Save current</button>
+              <button id="brushModeBtn" class="tool-button active" type="button" data-tool="brush">Brush</button>
+              <button id="eraseModeBtn" class="tool-button" type="button" data-tool="erase">Erase</button>
+              <button id="pickModeBtn" class="tool-button" type="button" data-tool="pick">Pick</button>
+            </div>
+          </div>
+
+          <div class="summary-grid">
+            <div class="summary-card">
+              <span>Tiles</span>
+              <strong id="editorTileCount">0</strong>
+            </div>
+            <div class="summary-card">
+              <span>Painted pixels</span>
+              <strong id="editorPixelCount">0</strong>
+            </div>
+            <div class="summary-card">
+              <span>Bounds</span>
+              <strong id="editorBounds">-</strong>
+            </div>
+          </div>
+
+          <div class="field">
+            <label>Move art by pixels</label>
+            <div class="move-grid">
+              <input id="moveXInput" type="number" value="1" step="1" />
+              <input id="moveYInput" type="number" value="0" step="1" />
+              <button id="moveBtn" class="primary-button" type="button">Apply move</button>
+              <button id="resetMoveBtn" class="secondary-button" type="button">Reset move</button>
+            </div>
+            <div class="nudge-row">
+              <button class="secondary-button" type="button" data-nudge="-1,0">-1 X</button>
+              <button class="secondary-button" type="button" data-nudge="1,0">+1 X</button>
+              <button class="secondary-button" type="button" data-nudge="0,-1">-1 Y</button>
+              <button class="secondary-button" type="button" data-nudge="0,1">+1 Y</button>
+            </div>
+          </div>
+
+          <div class="tool-row">
+            <div>
+              <span class="label-inline">Selected color</span>
+              <strong id="selectedColorLabel">Black</strong>
+            </div>
+            <div id="colorMeta" class="help">Brush paints the selected color. Pick samples from the canvas.</div>
+          </div>
+
+          <div id="paletteGrid" class="palette-grid"></div>
+
+          <div class="canvas-shell editable">
+            <canvas id="editorCanvas"></canvas>
+          </div>
+
+          <p id="editorStatus" class="help">Brush pixels directly on the canvas. The current template is saved back into the library.</p>
+        </section>
+
+        <aside class="panel merge-panel">
+          <h2>Merge JSON strings</h2>
+          <div class="field">
+            <label for="mergeNameInput">Merged template name</label>
+            <input id="mergeNameInput" type="text" placeholder="Merged template" />
+          </div>
+
+          <div class="button-row compact">
+            <button id="loadCurrentIntoMergeA" class="secondary-button" type="button">Use current as A</button>
+            <button id="loadCurrentIntoMergeB" class="secondary-button" type="button">Use current as B</button>
+          </div>
+
+          <div class="field">
+            <label for="mergeInputA">JSON A</label>
+            <textarea id="mergeInputA" spellcheck="false" placeholder="Paste the first JSON string"></textarea>
+          </div>
+
+          <div class="field">
+            <label for="mergeInputB">JSON B</label>
+            <textarea id="mergeInputB" spellcheck="false" placeholder="Paste the second JSON string"></textarea>
+          </div>
+
+          <div class="button-row">
+            <button id="mergeBtn" class="primary-button" type="button">Merge</button>
+            <button id="copyMergeBtn" class="secondary-button" type="button" disabled>Copy merged</button>
+            <button id="saveMergeBtn" class="secondary-button" type="button" disabled>Save merged</button>
+          </div>
+
+          <p id="mergeStatus" class="help">Right-hand pixels win when the same absolute pixel appears in both JSON strings.</p>
+
+          <div class="summary-grid">
+            <div class="summary-card">
+              <span>Tiles</span>
+              <strong id="mergeTileCount">0</strong>
+            </div>
+            <div class="summary-card">
+              <span>Painted pixels</span>
+              <strong id="mergePixelCount">0</strong>
+            </div>
+            <div class="summary-card">
+              <span>Bounds</span>
+              <strong id="mergeBounds">-</strong>
+            </div>
+          </div>
+
+          <textarea
+            id="mergeOutput"
+            class="output-textarea"
+            readonly
+            spellcheck="false"
+            placeholder="Merged JSON will appear here"
+          ></textarea>
+
+          <div class="canvas-shell">
+            <canvas id="mergeCanvas"></canvas>
+          </div>
+        </aside>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

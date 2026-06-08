@@ -1,0 +1,397 @@
+   [1]sict@must.edu.mn•[2]Захирлын туслах: 77601333•[3]Сургалтын алба:
+   77602333•
+   (BUTTON) Чухал холбоосууд
+   (BUTTON) A−
+   (BUTTON) ↺
+   (BUTTON) A+
+   (BUTTON) (BUTTON)
+   (BUTTON) Монгол
+
+   [4]
+   ШУТИС лого
+   Монгол Улсын Шинжлэх УхаанТехнологийн Их Сургууль
+   Мэдээлэл, Холбооны Технологийн Сургууль
+   [5]Бидний тухай
+   [6]Мэндчилгээ[7]Эрхэм зорилго[8]Түүх[9]Бахархал[10]Бүтэц, зохион
+   байгуулалт
+   [11]Засаглал
+   [12]Зөвлөл[13]Нэгж[14]Чанарын менежмент
+   [15]Сургалт
+   [16]Хөтөлбөр[17]Магадлан итгэмжлэл[18]Дүрэм, журам
+   [19]Эрдэм шинжилгээ, инноваци
+   [20]ЭШ, инновацын алба[21]ЭШ судалгаа[22]ЭШ-ний хурал
+   семинар[23]Бүтээлийн сан
+   [24]Хамтын ажиллагаа
+   [25]Хамтарсан төсөл[26]Хамтарсан хөтөлбөр[27]Санамж бичиг,
+   гэрээ[28]Нийгмийн хариуцлага[29]Хамтрагч байгууллагууд
+   [30]Оюутан
+   [31]Тэтгэлэг[32]Оюутны зөвлөл[33]Клубууд[34]Танхимын хуваарь
+   [35]Төгсөгч
+   [36]Холбоо[37]Амжилтын түүх
+   (BUTTON)
+   ____________________ (BUTTON) Хайх
+   (BUTTON)
+   ____________________ (BUTTON) Хайх
+   (BUTTON)
+
+   (BUTTON)
+   (BUTTON) Бидний тухай−
+     * [38]Үндсэн хуудас
+     * [39]Мэндчилгээ
+     * [40]Эрхэм зорилго
+     * [41]Түүх
+     * [42]Бахархал
+     * [43]Бүтэц, зохион байгуулалт
+
+   (BUTTON) Засаглал+
+     * [44]Үндсэн хуудас
+     * [45]Зөвлөл
+     * [46]Нэгж
+     * [47]Чанарын менежмент
+
+   (BUTTON) Сургалт+
+     * [48]Үндсэн хуудас
+     * [49]Хөтөлбөр
+     * [50]Магадлан итгэмжлэл
+     * [51]Дүрэм, журам
+
+   (BUTTON) Эрдэм шинжилгээ, инноваци+
+     * [52]Үндсэн хуудас
+     * [53]ЭШ, инновацын алба
+     * [54]ЭШ судалгаа
+     * [55]ЭШ-ний хурал семинар
+     * [56]Бүтээлийн сан
+
+   (BUTTON) Хамтын ажиллагаа+
+     * [57]Үндсэн хуудас
+     * [58]Хамтарсан төсөл
+     * [59]Хамтарсан хөтөлбөр
+     * [60]Санамж бичиг, гэрээ
+     * [61]Нийгмийн хариуцлага
+     * [62]Хамтрагч байгууллагууд
+
+   (BUTTON) Оюутан+
+     * [63]Үндсэн хуудас
+     * [64]Тэтгэлэг
+     * [65]Оюутны зөвлөл
+     * [66]Клубууд
+     * [67]Танхимын хуваарь
+
+   (BUTTON) Төгсөгч+
+     * [68]Үндсэн хуудас
+     * [69]Холбоо
+     * [70]Амжилтын түүх
+
+   [71]Багшийн лавлагаа↗ (шинэ таб)[72]Оюутны лавлагаа↗ (шинэ
+   таб)[73]E-learning↗ (шинэ таб)[74]Судалгааны портал↗ (шинэ таб)
+
+   © 2026 ШУТИС — Мэдээлэл, Холбооны Технологийн Сургууль
+
+   [75]Бүх танхим
+   (BUTTON) Танхим солих
+
+317
+
+   Лекцийн өрөө
+   2026-05-18 · Даваа гарагXVII долоо хоног (сондгой)Хавар 2025-2026
+
+   Дараагийн пар: 13:20 (4-р пар)
+   [76]Өнөөдөр[77]Долоо хоног
+
+Даваа
+
+   Өнөөдөр
+    1. 1-р─
+    2. 2-р─
+    3. 3-р─
+    4. 4-р─
+    5. 5-р─
+    6. 6-р
+       F.NSM807
+       Б.МӨНХБАЯРЛек
+    7. 7-р
+       F.NSM807
+       Б.МӨНХБАЯРСем
+    8. 8-р─
+
+Мягмар
+
+    1. 1-р─
+    2. 2-р
+       F.NSA233
+       П.БУМДҮҮРЭНЛаб
+    3. 3-р─
+    4. 4-р─
+    5. 5-р─
+    6. 6-р─
+    7. 7-р─
+    8. 8-р─
+
+Лхагва
+
+    1. 1-р─
+    2. 2-р
+       F.NSA233
+       Н.ДАВААСҮРЭНЛаб
+    3. 3-р
+       F.CSM332
+       Ж.ОРГИЛЛаб
+    4. 4-р
+       F.CSM332
+       Ж.ОРГИЛЛаб
+    5. 5-р─
+    6. 6-р
+       F.NSB350
+       Б.МӨНХБАЯРЛек
+    7. 7-р
+       F.NSB350
+       Б.МӨНХБАЯРЛек
+    8. 8-р─
+
+Пүрэв
+
+    1. 1-р─
+    2. 2-р
+       F.NSA350
+       Б.МӨНХБАЯРЛек
+    3. 3-р
+       F.NSA350
+       Б.МӨНХБАЯРЛек
+    4. 4-р
+       F.NSA350
+       Б.МӨНХБАЯРЛек
+    5. 5-р
+       F.NSA350
+       Б.МӨНХБАЯРЛек
+    6. 6-р
+       F.NSA350
+       Б.МӨНХБАЯРЛек
+    7. 7-р
+       F.NSA350
+       Б.МӨНХБАЯРЛек
+    8. 8-р─
+
+Баасан
+
+    1. 1-р─
+    2. 2-р─
+    3. 3-р
+       F.NSA233
+       П.БУМДҮҮРЭНЛаб
+       3-р
+       F.NSA233
+       Н.ДАВААСҮРЭНЛаб
+    4. 4-р
+       F.NSA337
+       Д.БЯМБАДОРЖЛаб
+    5. 5-р─
+    6. 6-р
+       F.NSA337
+       Д.БЯМБАДОРЖЛаб
+    7. 7-р
+       F.NSA337
+       Д.БЯМБАДОРЖЛаб
+    8. 8-р─
+
+   Дав
+   Мяг
+   Лха
+   Пүр
+   Баа
+   1
+   ─
+   ─
+   ─
+   ─
+   ─
+   2
+   ─
+   F.NSA233
+   П.БУМДҮҮРЭНЛаб
+   F.NSA233
+   Н.ДАВААСҮРЭНЛаб
+   F.NSA350
+   Б.МӨНХБАЯРЛек
+   ─
+   3
+   ─
+   ─
+   F.CSM332
+   Ж.ОРГИЛЛаб
+   F.NSA350
+   Б.МӨНХБАЯРЛек
+   F.NSA233
+   П.БУМДҮҮРЭНЛаб
+   F.NSA233
+   Н.ДАВААСҮРЭНЛаб
+   4
+   ─
+   ─
+   F.CSM332
+   Ж.ОРГИЛЛаб
+   F.NSA350
+   Б.МӨНХБАЯРЛек
+   F.NSA337
+   Д.БЯМБАДОРЖЛаб
+   5
+   ─
+   ─
+   ─
+   F.NSA350
+   Б.МӨНХБАЯРЛек
+   ─
+   6
+   F.NSM807
+   Б.МӨНХБАЯРЛек
+   ─
+   F.NSB350
+   Б.МӨНХБАЯРЛек
+   F.NSA350
+   Б.МӨНХБАЯРЛек
+   F.NSA337
+   Д.БЯМБАДОРЖЛаб
+   7
+   F.NSM807
+   Б.МӨНХБАЯРСем
+   ─
+   F.NSB350
+   Б.МӨНХБАЯРЛек
+   F.NSA350
+   Б.МӨНХБАЯРЛек
+   F.NSA337
+   Д.БЯМБАДОРЖЛаб
+   8
+   ─
+   ─
+   ─
+   ─
+   ─
+   [78]
+   ШУТИС лого
+   Монгол Улсын Шинжлэх УхаанТехнологийн Их Сургууль
+   Мэдээлэл, Холбооны Технологийн Сургууль
+
+   ШУТИС-ийн Мэдээлэл, холбооны технологийн сургууль — Монголын тэргүүлэгч
+   IT боловсролын төв.
+
+Холбоос
+
+   [79]Бидний тухай[80]Сургалт[81]Судалгаа[82]Оюутан[83]Төгсөгч[84]Холбоо
+   барих
+
+Нөөц
+
+   [85]Мэдээ[86]Арга хэмжээ[87]FAQ
+
+Холбоо барих
+
+   Баянзүрх дүүрэг, 22-р хороо, МХТС-ийн байр
+   [88]Захирлын туслах: 77601333Сургалтын алба:
+   77602333[89]sict@must.edu.mn
+
+   © 2026 ШУТИС - Мэдээлэл, холбооны технологийн сургууль. Бүх эрх хуулиар
+   хамгаалагдсан.
+
+References
+
+   Visible links:
+   1. mailto:sict@must.edu.mn
+   2. tel:77601333
+   3. tel:77602333
+   4. file:///mn
+   5. file:///mn/about
+   6. file:///mn/about/greeting
+   7. file:///mn/about/mission
+   8. file:///mn/about/history
+   9. file:///mn/about/pride
+  10. file:///mn/about/structure
+  11. file:///mn/governance
+  12. file:///mn/governance#councils
+  13. file:///mn/governance#units
+  14. file:///mn/governance#quality
+  15. file:///mn/education/programs
+  16. file:///mn/education/programs
+  17. file:///mn/education/accreditation
+  18. file:///mn/education/rules
+  19. file:///mn/research
+  20. file:///mn/research/office
+  21. file:///mn/research/studies
+  22. file:///mn/research/conferences
+  23. file:///mn/research/archive
+  24. file:///mn/cooperation
+  25. file:///mn/cooperation/projects
+  26. file:///mn/cooperation/programs
+  27. file:///mn/cooperation/agreements
+  28. file:///mn/cooperation/social-responsibility
+  29. file:///mn/cooperation/partners
+  30. file:///mn/students
+  31. file:///mn/students/scholarships
+  32. file:///mn/students/council
+  33. file:///mn/students/clubs
+  34. file:///mn/schedule
+  35. file:///mn/alumni
+  36. file:///mn/alumni/association
+  37. file:///mn/alumni/success-stories
+  38. file:///mn/about
+  39. file:///mn/about/greeting
+  40. file:///mn/about/mission
+  41. file:///mn/about/history
+  42. file:///mn/about/pride
+  43. file:///mn/about/structure
+  44. file:///mn/governance
+  45. file:///mn/governance#councils
+  46. file:///mn/governance#units
+  47. file:///mn/governance#quality
+  48. file:///mn/education/programs
+  49. file:///mn/education/programs
+  50. file:///mn/education/accreditation
+  51. file:///mn/education/rules
+  52. file:///mn/research
+  53. file:///mn/research/office
+  54. file:///mn/research/studies
+  55. file:///mn/research/conferences
+  56. file:///mn/research/archive
+  57. file:///mn/cooperation
+  58. file:///mn/cooperation/projects
+  59. file:///mn/cooperation/programs
+  60. file:///mn/cooperation/agreements
+  61. file:///mn/cooperation/social-responsibility
+  62. file:///mn/cooperation/partners
+  63. file:///mn/students
+  64. file:///mn/students/scholarships
+  65. file:///mn/students/council
+  66. file:///mn/students/clubs
+  67. file:///mn/schedule
+  68. file:///mn/alumni
+  69. file:///mn/alumni/association
+  70. file:///mn/alumni/success-stories
+  71. https://professor.must.edu.mn/Login
+  72. https://student.must.edu.mn/Login?ReturnUrl=/
+  73. https://elearn.sict.edu.mn/
+  74. https://research.must.edu.mn/
+  75. file:///schedule
+  76. file:///class/317?view=today
+  77. file:///class/317?view=week
+  78. file:///mn
+  79. file:///mn/about
+  80. file:///mn/education
+  81. file:///mn/research
+  82. file:///mn/students
+  83. file:///mn/alumni
+  84. file:///mn/contact
+  85. file:///mn/posts
+  86. file:///mn/events
+  87. file:///mn/admissions/faq
+  88. tel:77601333
+  89. mailto:sict@must.edu.mn
+
+   Hidden links:
+  91. https://www.facebook.com/mustsict
+  92. https://www.instagram.com/must_sict
+  93. https://twitter.com/
+  94. https://www.youtube.com/watch?v=a51HuGrNu7Q
+  95. mailto:sict@must.edu.mn
+  96. https://www.facebook.com/mustsict
+  97. https://www.instagram.com/must_sict
+  98. https://twitter.com/
+  99. https://www.youtube.com/watch?v=a51HuGrNu7Q
